@@ -1,0 +1,22 @@
+
+/*=================================
+   Bootstrap Sass
+==================================*/
+@import "bootstrap-sass/functions";
+@import "bootstrap-sass/variables";
+@import "bootstrap-sass/mixins";
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Poppins:wght@400;600&display=swap');
+/*=================================
+   Theme Based
+==================================*/
+@import "variables";
+@import "mixin";
+@import "typography";
+
+@import "project-sass/header";
+@import "project-sass/footer";
+@import "project-sass/btns";
+@import "project-sass/utility";
+
+ 
+
