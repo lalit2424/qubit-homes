@@ -8,12 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "@next/font": "^14.2.15",
     "bootstrap": "^5.3.3",
+    "bootstrap-select": "^1.13.18",
     "cross-env": "^7.0.3",
-    "next": "15.2.1",
+    "framer-motion": "^12.4.10",
+    "jquery": "^3.7.1",
+    "next": "^15.2.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "sass": "^1.85.1"
+    "react-owl-carousel": "^2.3.3",
+    "sass": "^1.85.1",
+    "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
